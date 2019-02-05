@@ -1,0 +1,7 @@
+C:\Users\justi\Documents\Grandcircus projects\Labs\Est_Pos\Est_Pos\obj\Debug\Est_Pos.csprojAssemblyReference.cache
+C:\Users\justi\Documents\Grandcircus projects\Labs\Est_Pos\Est_Pos\obj\Debug\Est_Pos.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Grandcircus projects\Labs\Est_Pos\Est_Pos\bin\Debug\Est_Pos.exe.config
+C:\Users\justi\Documents\Grandcircus projects\Labs\Est_Pos\Est_Pos\bin\Debug\Est_Pos.exe
+C:\Users\justi\Documents\Grandcircus projects\Labs\Est_Pos\Est_Pos\bin\Debug\Est_Pos.pdb
+C:\Users\justi\Documents\Grandcircus projects\Labs\Est_Pos\Est_Pos\obj\Debug\Est_Pos.exe
+C:\Users\justi\Documents\Grandcircus projects\Labs\Est_Pos\Est_Pos\obj\Debug\Est_Pos.pdb
